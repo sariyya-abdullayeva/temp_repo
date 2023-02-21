@@ -1,3 +1,5 @@
+// this is a repo for learning purposes
+
 # go-vuejs-chat
 Simple Go Vue.js chat application
 
